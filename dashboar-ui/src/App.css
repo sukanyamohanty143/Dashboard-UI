@@ -1,0 +1,93 @@
+.main-content1{
+  width: 55vw;
+  height: 79vh;
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 60px;
+  background-color: white;
+}
+
+.main-content2{
+  width: 53vw;
+  height: 75vh;
+  border: 6px solid black;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  margin-top: 5px; 
+  border-radius: 8px;
+  background-color: white;
+}
+
+.content1{
+  width: 30%;
+  height: 100%;
+  background-color: rgb(54, 54, 54);
+ 
+  
+}
+
+.content2{
+  width: 70%; 
+  height: 60%;
+  text-align: center;
+  margin-top: 100px;
+  background-color: white;
+}
+
+.navBar{
+  width: 37.1vw;
+  height: 11%;
+  margin-top: -121.5px;
+  background-color: rgb(36, 147, 251);
+}
+
+.title{
+  margin-right: 170px;
+  background-color: rgb(36, 147, 251);
+  color: white;
+}
+
+.close{
+  width: 2vw;
+  height: 4vh;
+  border-radius: 50%;
+  background-color: white;
+  color: rgb(36, 147, 251);
+  margin-left: 350px;
+  margin-top: -40px;
+  border: white;
+}
+
+.sideBar{
+  width: 31%;
+  font-size: 70%;
+  color: white;
+}
+
+.side1,.side2,.side3,.side4,.side5,.side6,.side7,.side8,.side9,.side10,.side11,.side12,.side13{
+  width: 15.5vw;
+  height: 7.5%;
+  margin-left: 1px;
+  color: white;
+  font-size: x-small;
+  text-align: justify;
+  font-weight: bold;
+  background-color: rgb(54, 54, 54);
+}
+
+.side11,.side12,.side13{
+  text-align: center;
+}
+
+.side13{
+  margin-top: 5px;
+  width: 15.9;
+  height: 8.5%;
+  background-color: rgb(34, 36, 53);
+  font-weight: bolder;
+  font-size: smaller;
+}
+span{
+  color: red;
+}
